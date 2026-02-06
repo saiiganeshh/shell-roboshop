@@ -1,6 +1,6 @@
 #!/bin/bash
 
-SG_ID="sg-076ec9ad23dab2b28"   # replace with your SG ID
+SG_ID="sg-05f4a98773864daab"   # replace with your SG ID
 AMI_ID="ami-0220d79f3f480ecf5"
 
 for instance in $@
